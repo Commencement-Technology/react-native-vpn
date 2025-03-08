@@ -19,7 +19,7 @@
     "@react-navigation/drawer": "^6.5.7",
     "@react-navigation/native": "^6.1.2",
     "@reduxjs/toolkit": "^1.9.1",
-    "axios": "^1.2.2",
+    "axios": "^1.8.2",
     "debounce": "^1.2.1",
     "fbjs": "^3.0.4",
     "formik": "^2.2.9",
